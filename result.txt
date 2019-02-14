@@ -1,0 +1,35 @@
+<- 1 ->
+8
+
+<- 2 ->
+4
+
+<- 3 ->
+-9
+
+<- 4 ->
+5
+
+<- 5 ->
+-91
+
+<- 6 ->
+Can't Divide By Zero!
+
+<- 7 ->
+Can't Divide By Zero!
+
+<- 8 ->
+0
+
+<- 9 ->
+3
+
+<- 10 ->
+Bad expression
+
+<- 11 ->
+Bad expression
+
+<- 12 ->
+Not a number!
