@@ -14,10 +14,10 @@
 -91
 
 <- 6 ->
-Can't Divide By Zero!
+inf
 
 <- 7 ->
-Can't Divide By Zero!
+-0.2
 
 <- 8 ->
 0
@@ -26,10 +26,10 @@ Can't Divide By Zero!
 3
 
 <- 10 ->
-Bad expression
+"Not enough arguments for +"
 
 <- 11 ->
-Bad expression
+"Too many arguments"
 
 <- 12 ->
-Not a number!
+"Unknown token howdy"
